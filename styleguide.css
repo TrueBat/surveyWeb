@@ -1,3 +1,5 @@
+@media (max-width: 400px) {
+
 :root {
     --basewhite: #fff;
     --black: #080809;
@@ -2456,7 +2458,7 @@ body{
 }
 
 
-@media (max-width: 387px) {
+
     
 }
 
