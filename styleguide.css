@@ -30,6 +30,11 @@
     box-sizing: border-box;
    
 }
+* {
+    outline: 1px solid #f00 !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
 body{
     
     height:10750px;
@@ -2327,7 +2332,6 @@ body{
     color: #000;
     letter-spacing: 0;
     white-space: nowrap;
-    width: 535px;
     font-family: Volkhov, Helvetica;
     font-size: 20px;
     font-weight: 700;
